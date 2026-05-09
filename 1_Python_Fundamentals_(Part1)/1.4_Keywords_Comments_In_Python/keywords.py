@@ -1,0 +1,4 @@
+# Keywords are reserved words in Python that cannot be used as variable names, function names, or any other identifiers. They have special meanings and are used to define the syntax and structure of the Python language. Some examples of keywords in Python include: False, True, None, and, or, not, if, else, elif, while, for, break, continue, pass, def, return, class, try, except, finally, with, as, lambda, import, from, global, nonlocal, assert, yield, del, raise, and async.
+
+False = 123
+print(False) #123 (The above line will print 123 because we have assigned the value 123 to the keyword False. However, this is not recommended as it can lead to confusion and errors in the code. It is best to avoid using keywords as variable names. SyntaxError: cannot assign to False (If you try to use the keyword False as a variable name, you will get a SyntaxError because it is a reserved word in Python and cannot be used as an identifier.)
