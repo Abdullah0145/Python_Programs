@@ -5,4 +5,4 @@ name = "shradha"  # string
 age = 35          # integer
 PI = 3.14         # float
 
-print("my name is:", age-5) #my name is: 30 (age-5 is 35-5 which is 30)
+print("my age is:", age-5) #my age is: 30 (age-5 is 35-5 which is 30)
